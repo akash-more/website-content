@@ -7,7 +7,7 @@ tags: lab
 
 Most developers I know don't care about business. At all. They have zero business knowledge, not even common sense about what business is all about.
 
-Some of them that work in big companies think that marketing is evil.
+Some of those, who work in big companies think that "Marketing is evil".
 
 Some people even call marketing emails "spam", even though they signed up voluntarily to receive those marketing emails.
 
